@@ -33,10 +33,10 @@ public class Main {
                 writer.write(data);
             }
 
-            writer.close();
-            
-        }catch(IOException e){
-
+            writer.close();            
+        }catch(IOException error){
+            System.out.println("Exception IO Error");
+            error.printStackTrace();
         }
     }
 }

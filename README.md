@@ -1,2 +1,2 @@
 # JavaAddressBook
-## Simple address book done in java
+## Simple address book done in Java
